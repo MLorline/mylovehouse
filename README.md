@@ -64,3 +64,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# My Love House
+
+Une application Laravel pour la gestion de locations de maisons.
+
+## Fonctionnalités
+
+- Gestion des maisons
+- Système de réservations
+- Messagerie entre utilisateurs
+- Système de conversations
